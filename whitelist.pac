@@ -4,8 +4,8 @@ var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
 
 /*
- * Copyright (C) 2014 breakwa11
- * https://github.com/breakwa11/gfw_whitelist
+ * Copyright (C) 2018 xifanu
+ * https://github.com/xifanu/gfw_whitelist
  */
 
 var white_domains = {"am":{
@@ -9607,6 +9607,10 @@ var white_domains = {"am":{
 "0798":1
 },"xn--fiqs8s":{
 "":1
+},"myself":{
+"yonyou":1,
+"yonyouccs":1,
+"how2j":1
 }
 };
 
