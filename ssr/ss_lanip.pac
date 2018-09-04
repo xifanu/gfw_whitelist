@@ -9,8 +9,8 @@ var ip_proxy = function(){ return wall_proxy(); };
 var ipv6_proxy = function(){ return wall_v6_proxy(); };
 
 /*
- * Copyright (C) 2014 breakwa11
- * https://github.com/breakwa11/gfw_whitelist
+ * Copyright (C) 2018 xifanu
+ * https://github.com/xifanu/gfw_whitelist
  */
 
 var subnetIpRangeList = [

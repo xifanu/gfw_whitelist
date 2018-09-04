@@ -3,5 +3,8 @@
 
 def getlist():
     liststr = """
+yonyou.com
+yonyouccs.com
+ip138.com
 """
     return set(liststr.splitlines(False))

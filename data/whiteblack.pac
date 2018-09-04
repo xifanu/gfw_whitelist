@@ -5,8 +5,8 @@ var auto_proxy = __AUTO_PROXY__; // if you have something like COW proxy
 var ip_proxy = __IP_PROXY__;
 
 /*
- * Copyright (C) 2014 breakwa11
- * https://github.com/breakwa11/gfw_whitelist
+ * Copyright (C) 2018 xifanu
+ * https://github.com/xifanu/gfw_whitelist
  */
 
 var white_domains = __WHITE_DOMAINS__;

@@ -5,8 +5,8 @@ var auto_proxy = wall_proxy; // if you have something like COW proxy
 var ip_proxy = nowall_proxy;
 
 /*
- * Copyright (C) 2014 breakwa11
- * https://github.com/breakwa11/gfw_whitelist
+ * Copyright (C) 2018  xifanu
+ * https://github.com/xifanu/gfw_whitelist
  */
 
 var white_domains = {"am":{
@@ -4333,7 +4333,6 @@ var white_domains = {"am":{
 "iouoo":1,
 "iouter":1,
 "iowoo":1,
-"ip138":1,
 "ip1840":1,
 "ipadown":1,
 "ipchina":1,

@@ -4870,7 +4870,6 @@ ioroo.com
 iouoo.com
 iouter.com
 iowoo.com
-ip138.com
 ip1840.com
 ipadown.com
 ipchina.com
